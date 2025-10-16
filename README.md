@@ -36,4 +36,4 @@ Push docker image
 ```bash
 make prod-push
 ```
-## [⤿ Docker image](https://hub.docker.com/repository/docker/allegrogh/devops-for-programmers-project-74/general)
+## [⤿ Docker image](https://hub.docker.com/repository/docker/rizhik356/devops-for-programmers-project-74/general)
